@@ -1,4 +1,4 @@
-# My First Jekyll Blog
+## My First Jekyll Blog
 
 This is the first time I've tried writing a Jekyll blog, and I'm pretty excited to see if it will work. 
 
