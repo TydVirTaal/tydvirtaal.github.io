@@ -12,7 +12,7 @@ description: Web Developer from Somewhere
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 # Theme currently being used
-remote_theme: moonwalk
+remote_theme:  abhinavs/moonwalk 
 
 #
 # Flags below are optional
