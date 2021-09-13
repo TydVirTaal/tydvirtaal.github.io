@@ -1,11 +1,10 @@
 ---
 permalink: /todo/
 title: "ToDo"
+author_profile: false
 ---
 
-Still in the process of setting this blog up! 
-
-Here's a list of actions to get it there! 
+Still in the process of setting this blog up - here's a list of actions to get it there! 
 
 - Import posts from Wordpress blog
 - Import pages from Wordpress blog
