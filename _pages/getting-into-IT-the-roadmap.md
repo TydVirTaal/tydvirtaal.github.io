@@ -10,6 +10,9 @@ I'd like to transition into a career in IT (from a finance/project management ba
 
 I want to do this because I should've started years ago - I've always been drawn to tech, I love systems thinking and my brain really needs to learn things and work through different problems to enjoy itself.
 
+A more detailed, real-time plan can be seen in my [Notion Dashboard](https://opposite-guava-d65.notion.site/Getting-into-IT-Learning-and-Project-Management-b3171e0f2d024efd8f80410cdd6fcd47).
+{: notice}
+
 ### Existing Skills
 
 I don't have a neatly packaged job title. My experience so far is that I'm a strong generalist who learns quickly and has a particular affinity for tech. When I'm working with clients, it tends to end up looking like me trying to improve systems and processes, either through process design or project managment. I have seen these skills be effective in dev-related spaces, and so I think that it will be important to leverage them as I look to make this transition.
