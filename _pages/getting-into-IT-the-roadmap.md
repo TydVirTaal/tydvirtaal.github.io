@@ -6,7 +6,7 @@ toc: true
 toc_sticky: true
 ---
 
-*Last updated: 2021/09/18*
+*Last updated: 2021/09/18. This page isn't very nice to read at the moment, but it's good enough for now. My time is better spent in other areas.*
 
 A detailed, real-time plan and progress tracker can be seen in my [Notion Dashboard](https://opposite-guava-d65.notion.site/Getting-into-IT-Learning-and-Project-Management-b3171e0f2d024efd8f80410cdd6fcd47).
 {: .notice}
@@ -14,30 +14,33 @@ A detailed, real-time plan and progress tracker can be seen in my [Notion Dashbo
 I'd like to transition into a career in IT (from a finance/project management background), and this is my plan to get there. 
 
 I want to do this because I should've started years ago - I've always been drawn to tech, I love systems thinking and my brain really needs to learn things and work through different problems to enjoy itself.
-
+<br><br>
 
 ### Existing Skills
 
 I don't have a neatly packaged job title. My experience so far is that I'm a strong generalist who learns quickly and has a particular affinity for tech. When I'm working with clients, it tends to end up looking like me trying to improve systems and processes, either through process design or project managment. I have seen these skills be effective in dev-related spaces, and so I think that it will be important to leverage them as I look to make this transition.
 
 To be concrete, here's what I can do at the moment: 
+<br><br>
 
-General skills:
+**General skills**:
 - Financial analysis (rusty though)
 - Project management
 - System and process design
+<br><br>
 
-Technologies: 
+**Technologies**: 
 - Excel (advanced - like, pivot tables, index match, etc. Not just `=SUM()` )
 - Beginner Python (I did 6 months in uni and have done a few small scripts since then)
 - Beginner Javascript (I have finished a beginner course)
 - Notion
+<br><br>
 
-Strengths: 
+**Strengths**: 
 - Fast learner *(like, above average for sure. Not just a buzzword. I can really lock myself in a room and level up my understanding of something fairly quickly.)*
 - Natural bias towards systems thinking and trying to model interactions between systems/components 
 - Decent writer, good speaker/presenter 
-
+<br><br>
 
 ### Short-Term Goals
 
@@ -74,7 +77,7 @@ I think there are a few good reasons why I should learn to do technical writing 
 1. It forces me to understand a codebase, and possibly model that system - which fits well into my desire to improve at systems thinking/software architecture
 2. Docs are a common need in open-source projects and require relatively little technical training, so it is likely that I can start contributing to something fairly quickly and provide value to maintainers to justify the billions of questions I'll no doubt pepper them with
 3. As an extension of (2), docs serve as a gateway to making actual code contributions to a project. Once I understand a codebase from writing docs for it, it will be a lot easier to write contributions for it. 
-
+<br><br>
 
 ### Projects 
 
@@ -83,12 +86,12 @@ To develop the above skills, I'll need to find some projects to work on. Fortuna
 - Anuva consulting - System and process design 
 - cubing.js Documentation - technical writing
 - WST assistance - project management
-
+<br><br>
 
 ### What about coding? 
 
 Disappointingly, the above doesn't really seem to require me to do much coding - which is sad, as coding is a big part of what I'm excited for. Honestly, I'm not quite sure how to work this in yet. I'd love to work on some projects - probably Javascript - but my plate is already pretty full trying to figure out the above. I'm considering trying to do 1 hour per day of actual code, and doing a "100 days of code" vibe. We'll see.
-
+<br><br>
 
 ### Structuring the Journey
 
@@ -100,6 +103,7 @@ A roadmap is only as good as one's ability to execute on it. And a learning jour
   - Weekly reviews (video/blog post?)
   - Daily priorities and reflection tweet
   - Trying to only solve a problem once: When I encounter a problem, be conscious of it, work through it, and when solved *write down the process for solving it in Obsidian*.
+<br><br>
 
 ### Sharing the Journey
 
