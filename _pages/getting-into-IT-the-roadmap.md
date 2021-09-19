@@ -11,7 +11,7 @@ I'd like to transition into a career in IT (from a finance/project management ba
 I want to do this because I should've started years ago - I've always been drawn to tech, I love systems thinking and my brain really needs to learn things and work through different problems to enjoy itself.
 
 A more detailed, real-time plan can be seen in my [Notion Dashboard](https://opposite-guava-d65.notion.site/Getting-into-IT-Learning-and-Project-Management-b3171e0f2d024efd8f80410cdd6fcd47).
-{: notice}
+{: .notice}
 
 ### Existing Skills
 
