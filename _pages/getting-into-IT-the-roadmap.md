@@ -2,6 +2,8 @@
 title: "Getting into IT: The Roadmap"
 layout: single
 permalink: /roadmap
+toc: true
+toc_sticky: true
 ---
 
 *Last updated: 2021/09/18*
