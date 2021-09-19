@@ -1,7 +1,7 @@
 ---
 title: "Getting into IT: The Roadmap"
 layout: single
-permalink: /roadmap
+permalink: /roadmap/
 toc: true
 toc_sticky: true
 ---
