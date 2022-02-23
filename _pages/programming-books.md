@@ -9,6 +9,7 @@ A list of the books I want to, and have, read around programming.
 * The Pragmatic Programmer
 * Coders at Work
 * Refactoring: Improving the Design of Existing Code, 2nd Edition
+* Growing Object Oriented Software Guided By Tests
 
 # Backlog
 _Roughly ranked list of books I'd like to read._

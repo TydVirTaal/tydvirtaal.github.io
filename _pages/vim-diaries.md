@@ -7,6 +7,10 @@ In this document I am chronicling my process of learning to use vim, as well as 
 
 ## Learning
 
+Making sure that I'm doing everything from this: https://spin.atomicobject.com/2016/04/19/vim-commands-cheat-sheet/
+
+- A/I, for inserting at start/end of lines (instead of jumping to end/start and then using a/i)
+- ctrl+U/D   
 
 ## To learn
 * gi = insert mode at last location 
