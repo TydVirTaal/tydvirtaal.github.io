@@ -11,22 +11,22 @@ author_profile: true
 
 Busy learning to build things using code. 
 
-## Learning log: 
+## LEARNING LOG: 
 
-### Learned:
+#### Learned:
 - Python (basic/intermediate)
 - Javascript (basic)
 - Basic testing using pytest and jest
 - Flask API setup
 - Basic frontend (vanilla JS, HTML, CSS)
 
-### Currently learning:
+#### Currently learning:
 - Arjan's software design course
 - mongoDB / pymongo
 - Test-Driven Development (software development methodology)
 - Pragmatic Programmer (book I'm reading)
 
-### To learn:
+#### To learn:
 - React
 - More efficient ways of using pytest
 
