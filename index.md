@@ -9,8 +9,24 @@ author_profile: true
 
 <!-- ## Hey there, I'm Duncan!  -->
 
-Nerd, lover of learning, generalist still looking for their niche. 
+Busy learning to build things using code. 
 
-You can take a look at my [Now](_pages/now.md) page for a summary of what I'm up to. 
+## Learning log: 
 
-My main project at the moment is transitioning to a career in IT. [Here's the roadmap](/_pages/getting-into-IT-the-roadmap.md) for that. I'm experimenting with ways to share my learning journey - take a look at Twitter or this blog for updates there. 
+### Learned:
+- Python (basic/intermediate)
+- Javascript (basic)
+- Basic testing using pytest and jest
+- Flask API setup
+- Basic frontend (vanilla JS, HTML, CSS)
+
+### Currently learning:
+- Arjan's software design course
+- mongoDB / pymongo
+- Test-Driven Development (software development methodology)
+- Pragmatic Programmer (book I'm reading)
+
+### To learn:
+- React
+- More efficient ways of using pytest
+

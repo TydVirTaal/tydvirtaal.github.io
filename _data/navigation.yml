@@ -7,7 +7,7 @@ main:
   #   url: /tags/
   # - title: "About"
   #   url: /about/
-  - title: "Roadmap"
-    url: /roadmap/
-  - title: "Now"
-    url: /now/
+  # - title: "Roadmap"
+  #   url: /roadmap/
+  # - title: "Now"
+  #   url: /now/
