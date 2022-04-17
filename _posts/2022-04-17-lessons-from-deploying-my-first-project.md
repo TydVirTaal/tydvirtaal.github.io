@@ -1,3 +1,4 @@
+
 I'm in the middle of wrapping up the first deployment of a personal project I've been excited for - a flashcard trainer which stores lists of flashcards, tests you on them, and has built-in logic which helps you learn them and get faster at recognising them.
 
 On the surface, this sounds pretty straightforward (at least to me). 
@@ -8,6 +9,27 @@ Architecturally, it looks like this:
 - mongoDB database (stores flashcards and results, hosted on a free mongoDB instance)
 
 On the face of it, it doesn't seem like that much to set up. In practice, it has taken easily tens of hours of effort on my side, to arrive at a product I'm still not entirely satisfied with.
+
+I'll go into more detail on my observations and reflections below, but here are the main takeaways - and particular credit to the ArjanCodes Discord server for helping me arrive at them:
+
+## MAIN TAKEAWAYS: 
+
+Following a more object-oriented design would have made this much easier to write and keep mental track of of. The fact that tests were difficult/frustrating to write should have alerted me to the fact that my design was awkward.
+
+1. "If you find it hard to write a test, its telling you that you need to do more work on your design."
+2. "You think too much in terms of dicts and json. You want to almost immediately turn your json into classes that make sense from an implementation perspective." 
+
+## POSSIBLE REFACTORING PATHS:
+
+1. Separate unit/TDD tests and integration tests (make better use of pytest features for sharing variables/data in the process)
+2. Make database updates run as batch jobs/tasks, perhaps using Luigi: https://luigi.readthedocs.io/en/stable/
+
+
+<hr>
+
+_further context and musings below_
+
+<hr>
 
 ## Main problems:
 
@@ -57,7 +79,6 @@ _other ideas_
 
 ### VERY confusing tests and test data
 
-
 ## Unexpected timesinks
 
 - A significant amount of the time spent on this project has been trying to set up test cases
@@ -68,7 +89,7 @@ _other ideas_
 
 ## Learnings
 
-### Worry about efficiency when it comes to leaving the code, not so much within the code.
+### Worry about efficiency when it comes to data "leaving" the code, not so much within the code.
 I've heard a lot of people make mention of the fact that engineers worry too much about efficiency in their code. Given the phenomenal power of modern computers, even things which scale with logarithmic are not likely to significantly impact execution speed. What I wasn't paying attention to, however, was that this only applies when performing operations on the same machine. **As soon as code leaves the environment - eg, in an API or database call - execution time and efficiency does start to matter a lot more.**
 
 I still don't need to obsess over the minute efficiencies, but I should try to build sane operations where I can. A great example is the database operation that makes a call for each item in a list - I knew this was inefficient when I built it, but dismissed it on the advice that I should only worry about optimising things which become a problem. That advice held true, and I now have a much better intuition for what might become a problem in the future. 
@@ -87,18 +108,3 @@ run_code_you_want_to_time()
 stop = timeit.default_timer()
 print('Time: ', stop - start)
 ```
-
-### The readability/understandability of my code is deteriorating
-
-
-## What do I need to change
-
-- 
-
-
-
-
-## General thoughts
-
-- I may want to consider looking into websockets as an alternative to HTTP for when I'm trying to call a server to do operations which take a long time
-
