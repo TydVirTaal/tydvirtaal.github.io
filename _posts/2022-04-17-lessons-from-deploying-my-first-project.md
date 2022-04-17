@@ -1,3 +1,10 @@
+---
+title: "Lessons from my first deployment"
+excerpt_separator: "<!--more-->"
+categories:
+  - Blog
+tags:
+---
 
 I'm in the middle of wrapping up the first deployment of a personal project I've been excited for - a flashcard trainer which stores lists of flashcards, tests you on them, and has built-in logic which helps you learn them and get faster at recognising them.
 
@@ -24,6 +31,7 @@ Following a more object-oriented design would have made this much easier to writ
 1. Separate unit/TDD tests and integration tests (make better use of pytest features for sharing variables/data in the process)
 2. Make database updates run as batch jobs/tasks, perhaps using Luigi: https://luigi.readthedocs.io/en/stable/
 
+<!--more-->
 
 <hr>
 

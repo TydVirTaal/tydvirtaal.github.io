@@ -11,6 +11,17 @@ author_profile: true
 
 Busy learning to build things using code. 
 
+## CURRENT PROJECTS:
+
+- Flashcard training tool
+    - [x] Create MVP1
+    - [ ] Refactor according to learnings document
+    - [ ] Rewrite frontend in React
+
+- WST Project Management
+    - [ ] Define my weekly tasks
+    - [ ] Define long-term tasks
+
 ## LEARNING LOG: 
 
 #### Learned:
